@@ -1,6 +1,6 @@
 # **Customizable Sticker templates for MMP**
 
-Editable templates so you can design your own Miyoo Mini Plus stickers.
+Edit these templates and design your own Miyoo Mini Plus stickers.
 Includes templates for Front skin, Back label and Battery cover in PSD format.
 
 
