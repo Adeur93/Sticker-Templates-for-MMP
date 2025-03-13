@@ -9,7 +9,7 @@ Includes templates for Front skin, Back label and Battery cover in PSD format.
 
 ## Measurements for printing (in mm, W x H):
 
-Front skin: 78.3 x 48.7  
+Front skin: 78 x 48.5  
 
 Back label: 60 x 18.7  
 
