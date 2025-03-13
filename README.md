@@ -3,6 +3,9 @@
 Edit these templates and design your own Miyoo Mini Plus stickers.
 Includes templates for Front skin, Back label and Battery cover in PSD format.
 
+![Preview1](IM1.png)
+![Preview2](IM2.png)
+![Preview3](IM3.png)
 
 ## Measurements for printing (in mm, W x H):
 
